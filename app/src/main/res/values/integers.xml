@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="type_number">0x00000003</integer>
+    <integer name="type_password">0x00000080</integer>
+    <integer name="type_text">0x00000001</integer>
+    <integer name="numberDecimal">0x00002002</integer>
+    <integer name="textEmailAddress">0x00000021</integer>
+    <integer name="type_sms">0x00000002</integer>
+</resources>
